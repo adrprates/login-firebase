@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720662154268",
+    "project_id": "loginappkotlin-50fcc",
+    "storage_bucket": "loginappkotlin-50fcc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720662154268:android:d3c2bf575f8b00e84423d9",
+        "android_client_info": {
+          "package_name": "com.dm.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUDAhPbMkLy2jZEW5tJsIQI7D6IT0gLHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
